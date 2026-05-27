@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchponnect",
+        "uuid": 18096140,
+        "checksum": "8a8oq5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
